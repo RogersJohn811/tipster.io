@@ -2,6 +2,7 @@
 
 Welcome to Tipster
 
+https://rogersjohn811.github.io/tipster.io/
 
 Here we have a webpage that accesses two local API's to give you a certain beer
 based off certain aspects of the movie. Start of by typing in one of your favorite movies
